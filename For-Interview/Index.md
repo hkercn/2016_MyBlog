@@ -11,9 +11,9 @@
 		
 	  [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 	
-	  [Markdown: Basics （快速入门）](http://wowubuntu.com/markdown/basic.html)
+	  [Markdown: Basics （快速入门）](http://wowubuntu.com/markdown/basic.html)  
 
-          [简书的Markdown](http://www.jianshu.com/p/14e1ca9270b2)
+         [简书的Markdown](http://www.jianshu.com/p/14e1ca9270b2)
 
 ##内在技能树
 ###Java
