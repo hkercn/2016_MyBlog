@@ -104,7 +104,8 @@
 
  [架构设计的历史·MVC·MVP·MVVM](http://www.jianshu.com/p/be63c37b02cb)
 
- - MVP 
+ - MVP  
+
   [MVP模式在Android开发中的应用](http://blog.csdn.net/vector_yi/article/details/24719873)
 
     [【译】Android开发中的MVP架构](http://www.jianshu.com/p/7567ed0d1853)
