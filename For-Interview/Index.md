@@ -28,6 +28,7 @@
 	[国内镜像](http://android.xsoftlab.net/)
 
 - Android 官方培训文档
+
     [官方培训教程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 + 开发工具：
 	
