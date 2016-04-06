@@ -106,15 +106,15 @@
 
  - MVP  
 
-  [MVP模式在Android开发中的应用](http://blog.csdn.net/vector_yi/article/details/24719873)
+          [MVP模式在Android开发中的应用](http://blog.csdn.net/vector_yi/article/details/24719873)
 
-    [【译】Android开发中的MVP架构](http://www.jianshu.com/p/7567ed0d1853)
+          [【译】Android开发中的MVP架构](http://www.jianshu.com/p/7567ed0d1853)
 
-	[Model View Presenter (MVP) in Android, Part 1](http://www.tinmegali.com/en/model-view-presenter-android-part-1/)
+	  [Model View Presenter (MVP) in Android, Part 1](http://www.tinmegali.com/en/model-view-presenter-android-part-1/)
 
-	[Model View Presenter (MVP) in Android, Part 2](http://www.tinmegali.com/en/model-view-presenter-mvp-in-android-part-2/)
+	  [Model View Presenter (MVP) in Android, Part 2](http://www.tinmegali.com/en/model-view-presenter-mvp-in-android-part-2/)
 
-	[Model View Presenter (MVP) in Android, Part 3](http://www.tinmegali.com/en/model-view-presenter-mvp-in-android-part-3/)
+	  [Model View Presenter (MVP) in Android, Part 3](http://www.tinmegali.com/en/model-view-presenter-mvp-in-android-part-3/)
 
   + MVVM / DataBinding
 
