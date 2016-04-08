@@ -119,6 +119,10 @@
 
 	  [Model View Presenter (MVP) in Android, Part 3](http://www.tinmegali.com/en/model-view-presenter-mvp-in-android-part-3/)
 	  
+	   [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
+
+       [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
+	  
 	    [MVP+Dagger2+Retrofit实现更清晰的架构](http://www.jianshu.com/p/121ec1e9b751)
 
   + MVVM / DataBinding
@@ -181,7 +185,6 @@
 	
 	[乐事：Android插件化的一种实现](http://mp.weixin.qq.com/s?__biz=MzIwMTA2MjMxNA==&mid=211048871&idx=1&sn=d6c7deb1dbd3f4b228a4f525ba14ebf6&scene=5#rd )
 
-	[对插件本身没有限制的新思路](https://github.com/houkx/android-pluginmgr )
 
 * 热修复动态加载
 
