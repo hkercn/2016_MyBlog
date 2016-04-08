@@ -119,6 +119,8 @@
 	  [Model View Presenter (MVP) in Android, Part 2](http://www.tinmegali.com/en/model-view-presenter-mvp-in-android-part-2/)
 
 	  [Model View Presenter (MVP) in Android, Part 3](http://www.tinmegali.com/en/model-view-presenter-mvp-in-android-part-3/)
+	  
+	    [MVP+Dagger2+Retrofit实现更清晰的架构](http://www.jianshu.com/p/121ec1e9b751)
 
   + MVVM / DataBinding
 
