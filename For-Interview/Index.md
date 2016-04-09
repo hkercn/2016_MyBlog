@@ -244,6 +244,11 @@
 * 网络通信与编程
 	
 	参考王家林的《Android 4.0网络编程详解》
+ 
+       + 数据格式
+        
+         * JSON
+                [Google提议使用Jsonnet来增强JSON](jsonnet.org)
 
 	+ 上传和下载
 	
