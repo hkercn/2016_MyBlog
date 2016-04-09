@@ -71,6 +71,8 @@
 		[Codelab for Android Design Support Library used in I/O Rewind Bangkok session :: The Cheese Factory](http://inthecheesefactory.com/blog/android-design-support-library-codelab/)
 
 		[Instagram with Material Design concept is getting real](http://frogermcs.github.io/Instagram-with-Material-Design-concept-is-getting-real/)
+		
+	 **谷歌给我们Android Design Support Library ，里面提供了几乎所有重要的Material Design UI元素。**
 
 	* Design Support Library
 
