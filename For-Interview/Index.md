@@ -299,6 +299,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 
 [Android开发最佳实践](http://hukai.me/android-dev-patterns/)
 
+[《终端应用开发指南》](http://www.yidianzixun.com/home?page=article&id=0BjtvbEu)
+
 [从零开始搭建架构实施Android项目](http://www.cnblogs.com/lao-liang/p/5122425.html?f=tt)
 	
 [一个优秀的Android应用从建项目开始](www.jianshu.com/p/d9e4ddd1c530)
