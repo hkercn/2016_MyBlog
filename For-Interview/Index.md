@@ -45,6 +45,8 @@
     * Gradle
 
 		[Android Gradle 用户指南-中文版](http://wiki.jikexueyuan.com/project/android-gradle-guide/)
+		
+		[Gradle Android插件用户指南翻译](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/)
 
 	+ Infer
 
