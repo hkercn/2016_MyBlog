@@ -58,6 +58,8 @@
 
 	* Material Design
 	
+	 [A library to bring Material Design UI to pre-Lolipop Android.](http://rey5137.com/material/)
+	
 	 [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 
 		[谷歌Material Design设计语言详解](http://www.jikexueyuan.com/course/124.html)
