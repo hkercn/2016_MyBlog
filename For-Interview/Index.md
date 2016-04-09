@@ -57,6 +57,8 @@
 + UI设计
 
 	* Material Design
+	
+	 [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 
 		[谷歌Material Design设计语言详解](http://www.jikexueyuan.com/course/124.html)
 
