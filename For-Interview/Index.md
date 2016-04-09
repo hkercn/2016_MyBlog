@@ -213,6 +213,8 @@
 	
 	热门的有RxJava/RxAndroid/RxVolley/RxBus/RxBinding
 
+      [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
+
 	[Facebook开源的图片加载组件Fresco](https://github.com/facebook/fresco) 
 
 	[内存泄漏检测的开源库LeakCanary](https://github.com/square/leakcanary)
