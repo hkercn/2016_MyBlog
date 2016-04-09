@@ -218,6 +218,24 @@
 	[更多开源库项目收集](https://github.com/snowdream/awesome-android)
 
 * Android性能提升
+  
+  [Android性能优化典范 - 第4季](http://hukai.me/android-performance-patterns-season-4/)
+
+  [Android内存优化之OOM](http://hukai.me/android-performance-oom/)
+
+  [Android性能优化典范 - 第3季](http://hukai.me/android-performance-patterns-season-3/)
+
+  [Android性能优化典范 - 第2季](http://hukai.me/android-performance-patterns-season-2/)
+
+  [Android性能优化之电量篇](http://hukai.me/android-performance-battery/)
+
+  [Android性能优化之内存篇](http://hukai.me/android-performance-memory/)
+
+  [Android性能优化之运算篇](http://hukai.me/android-performance-compute/)
+
+  [Android性能优化之渲染篇](http://hukai.me/android-performance-render/)
+
+  [Android性能优化典范 - 第1季](http://hukai.me/android-performance-patterns/)
 
   [MAT使用入门](http://www.jianshu.com/p/d8e247b1e7b2)
 
@@ -270,6 +288,8 @@
 ###项目开发准备###
 
 [Android 编码规范](http://www.jianshu.com/p/0a984f999592)
+
+[Android开发最佳实践](http://hukai.me/android-dev-patterns/)
 
 [从零开始搭建架构实施Android项目](http://www.cnblogs.com/lao-liang/p/5122425.html?f=tt)
 	
