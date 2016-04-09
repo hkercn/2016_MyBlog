@@ -269,9 +269,13 @@
 
 ###项目开发准备###
 
+[Android 编码规范](http://www.jianshu.com/p/0a984f999592)
+
 [从零开始搭建架构实施Android项目](http://www.cnblogs.com/lao-liang/p/5122425.html?f=tt)
 	
 [一个优秀的Android应用从建项目开始](www.jianshu.com/p/d9e4ddd1c530)
+
+[Android APK安装包瘦身](http://hukai.me/android-tips-for-reduce-apk-size/)
 
 调研需要开发的项目，列出2到3个。
 
