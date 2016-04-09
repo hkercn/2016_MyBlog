@@ -307,6 +307,9 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 
 [Android APK安装包瘦身](http://hukai.me/android-tips-for-reduce-apk-size/)
 
+
+**MultiDex**
+
 调研需要开发的项目，列出2到3个。
 
 先从Android Studio工具的熟练使用开始。
