@@ -77,7 +77,9 @@
 	* Design Support Library
 
 		[Android Design Support Library 兼容库使用详解](http://www.jikexueyuan.com/course/2117.html)
-
+		
+		[Android的材料设计兼容库（Design Support Library）](http://jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html)        
+		
 		- Navigation View
 		- Floating labels for editing text
 		- Floating Action Button
