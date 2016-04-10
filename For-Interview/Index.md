@@ -45,6 +45,14 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 		[Android Studio 全方位指南之协作开发指南](http://www.jikexueyuan.com/course/2623.html)
 		
 		[推荐几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b)
+		
+		[Android Studio 使用技巧（一）](http://blog.csdn.net/djk_dong/article/details/46944419)
+
+                [ Android Studio 使用技巧（二） ](http://blog.csdn.net/djk_dong/article/details/47063283)
+
+                [ Android Studio 使用技巧（三） ](http://blog.csdn.net/djk_dong/article/details/47108895)
+
+                [ Android Studio 模板（Template）定制  ](http://blog.csdn.net/djk_dong/article/details/47130863)
 
     * Gradle
 
