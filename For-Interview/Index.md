@@ -270,6 +270,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 * 网络通信与编程
 	
 	参考王家林的《Android 4.0网络编程详解》
+
+   [Android网络请求心路历程](http://www.jianshu.com/p/3141d4e46240)
  
        + 数据格式
         
