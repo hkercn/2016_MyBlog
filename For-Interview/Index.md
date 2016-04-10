@@ -219,7 +219,17 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 	相关热门有HotFix、Nuwa、DroidFix、AndFix/dexposed
 
 	* AndFix
-		https://github.com/alibaba/AndFix	
+		https://github.com/alibaba/AndFix  
+       
+        [Alibaba-AndFix Bug热修复框架的使用](http://blog.csdn.net/qxs965266509/article/details/49802429)
+
+        [Alibaba-AndFix Bug热修复框架原理及源码解析](http://blog.csdn.net/qxs965266509/article/details/49816007)
+
+        [Alibaba-Dexposed框架在线热补丁修复的使用](http://blog.csdn.net/qxs965266509/article/details/49821413)
+
+        [Alibaba-Dexposed Bug框架原理及源码解析](http://blog.csdn.net/qxs965266509/article/details/50117137)
+
+        [Android-FixBug热修复框架的使用及源码分析(不发版修复bug)](http://blog.csdn.net/qxs965266509/article/details/50390325)
 
 	* dexposed
 		https://github.com/alibaba/dexposed
