@@ -43,12 +43,16 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 		[Android Studio全方位指南之基本操作指南](http://www.jikexueyuan.com/course/2549.html)
 		
 		[Android Studio 全方位指南之协作开发指南](http://www.jikexueyuan.com/course/2623.html)
+		
+		[推荐几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b)
 
     * Gradle
 
 		[Android Gradle 用户指南-中文版](http://wiki.jikexueyuan.com/project/android-gradle-guide/)
 		
 		[Gradle Android插件用户指南翻译](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/)
+		
+		
 
 	+ Infer
 
