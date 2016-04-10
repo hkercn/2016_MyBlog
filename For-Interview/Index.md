@@ -120,6 +120,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 + APP架构与设计模式
 
  [架构设计的历史·MVC·MVP·MVVM](http://www.jianshu.com/p/be63c37b02cb)
+ 
+ [Android架构合集](https://github.com/Juude/Awesome-Android-Architecture)
 
  - MVP  
 
