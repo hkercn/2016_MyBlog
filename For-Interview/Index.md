@@ -273,11 +273,15 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 
   [MAT使用入门](http://www.jianshu.com/p/d8e247b1e7b2)
 
-* 自动化测试
+* 单元与自动化测试
 
 	Espresso 2.0
 
 	[What's new in Android Testing Droidcon Italy 2015-需翻墙](https:// docs.google.com/present ation/d/1EtFKPluGiuxZcr4W_cAziEY_--wbY_1otw44XEBv7JA/edit#slide=id.g98a986571_0_269)
+	
+	[Android单元测试框架Robolectric3.0介绍(一)](http://www.jianshu.com/p/9d988a2f8ff7)
+
+     [Android单元测试框架Robolectric3.0介绍(二)](http://www.jianshu.com/p/3aa0e4efcfd3)
 
 * 第三方服务平台
 
