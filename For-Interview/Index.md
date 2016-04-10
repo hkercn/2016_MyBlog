@@ -53,6 +53,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
         [ Android Studio 使用技巧（三） ](http://blog.csdn.net/djk_dong/article/details/47108895)
 
         [ Android Studio 模板（Template）定制  ](http://blog.csdn.net/djk_dong/article/details/47130863)
+        
+        [Android Studio 小技巧合集](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
 
     * Gradle
 
