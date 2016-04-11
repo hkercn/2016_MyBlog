@@ -92,7 +92,6 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 
 	* Design Support Library
 
-		[Android Design Support Library 兼容库使用详解](http://www.jikexueyuan.com/course/2117.html)
 		
 		[Android的材料设计兼容库（Design Support Library）](http://jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html)        
 		
