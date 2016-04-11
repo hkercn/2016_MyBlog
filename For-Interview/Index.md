@@ -316,6 +316,20 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 	
 	+ 自己编写框架与第三方库
 
+* 其他阅读
+
+  [**《Android开发艺术探索》读书笔记系列目录**](http://hujiaweibujidao.github.io/blog/2015/12/05/Art-of-Android-Development-Reading-Notes/)
+
+   深入Android系统，主要也就一下几大模块了：
+ +  IPC机制，Binder和匿名共享内存等
+ 2. 四大组件启动，工作原理
+ 3. View系统，绘制原理，事件分发
+ 4. 动画框架，原理
+ 5. 多线程机制，消息机制 AsyncTask，Thread/Handler
+ 6. 系统启动过程，system_server启动过程
+ 7. Window系统，Window创建过程
+ 8. 资源管理系统，资源加载机制等
+
 ##项目##
 
 ###项目调研###
