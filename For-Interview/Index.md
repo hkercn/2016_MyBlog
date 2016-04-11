@@ -163,7 +163,7 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 		
 	[MVVM_Android-CleanArchitecture ](http://rocko.xyz/2015/11/07/MVVM_Android-CleanArchitecture/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
  
-	[Data Binding（数据绑定）用户指南](http://www.jianshu.com/p/b1df61a4df77)
+	[Data Binding（数据绑定）用户指南](http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0606/3005.html)
 
 	[数据绑定(Data Binding)-Part1](http://www.devtf.cn/?p=1085)
 
