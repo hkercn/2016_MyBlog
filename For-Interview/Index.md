@@ -38,11 +38,13 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 	
 	* Android Studio 
 	
-		[Android Studio 全方位指南之初识 Android Studio](http://www.jikexueyuan.com/course/2531.html)
+		[Android Studio 操作手册](http://wiki.jikexueyuan.com/project/android-studio-guide/)  
 
-		[Android Studio全方位指南之基本操作指南](http://www.jikexueyuan.com/course/2549.html)
-		
-		[Android Studio 全方位指南之协作开发指南](http://www.jikexueyuan.com/course/2623.html)
+         [Managing Projects Overview - AS工程目录结构官网介绍国内镜像](http://android.xsoftlab.net/tools/projects/index.html)
+ 
+         [Android Studio 和 Gradle](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/android-studio-and-gradle.html)
+
+         [Android Studio 导入第三方类库、jar 包和 so 库](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/android-studio-importing-third-patry-repository-jar-package-so-package.html)
 		
 		[推荐几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b)
 		
