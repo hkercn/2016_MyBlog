@@ -252,6 +252,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
       [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
       
       [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
+      
+      [RxJava和EventBus的区别？](https://www.zhihu.com/question/32179258/answer/54989242)
 
 	[Facebook开源的图片加载组件Fresco](https://github.com/facebook/fresco) 
 
