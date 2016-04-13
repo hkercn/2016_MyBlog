@@ -150,6 +150,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 
 
          [【译】Android开发中的MVP架构](http://www.jianshu.com/p/7567ed0d1853)
+         
+         [浅谈Andorid开发中的MVP模式](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0225/3994.html)
 
 	  [Model View Presenter (MVP) in Android, Part 1](http://www.tinmegali.com/en/model-view-presenter-android-part-1/)
 
