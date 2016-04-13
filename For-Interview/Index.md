@@ -251,7 +251,7 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 
       [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
       
-      [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+      [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 
 	[Facebook开源的图片加载组件Fresco](https://github.com/facebook/fresco) 
 
