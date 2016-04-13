@@ -137,6 +137,12 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
  [架构设计的历史·MVC·MVP·MVVM](http://www.jianshu.com/p/be63c37b02cb)
  
  [Android架构合集](https://github.com/Juude/Awesome-Android-Architecture)
+ 
+  - CleanArchitecture
+     
+     [Android-CleanArchitecture - github](https://github.com/android10/Android-CleanArchitecture)
+
+     [The Clean Architecture](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
  - MVP  
 
