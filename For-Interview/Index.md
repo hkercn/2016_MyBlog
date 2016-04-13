@@ -155,6 +155,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
        [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
 	  
 	    [MVP+Dagger2+Retrofit实现更清晰的架构](http://www.jianshu.com/p/121ec1e9b751)
+	    
+	    [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f&scene=0#wechat_redirect)
 
   + MVVM / DataBinding
 
