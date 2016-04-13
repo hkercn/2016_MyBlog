@@ -248,6 +248,12 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 * 第三方开源库
 	
 	热门的有RxJava/RxAndroid/RxVolley/RxBus/RxBinding
+       
+      [EventBus3.0源码解析](http://yydcdut.com/2016/03/07/eventbus3-code-analyse/)
+
+      [当EventBus遇上RxJava](http://www.easydone.cn/2016/03/29/)
+
+      [xBus - 简洁的EventBus实现](https://github.com/mcxiaoke/xBus)
 
       [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
       
