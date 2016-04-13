@@ -158,6 +158,10 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 	   [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
 
        [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
+       
+       [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
+   
+       [MVP在Android平台上的应用](http://www.devtf.cn/?p=567)
 	  
 	    [MVP+Dagger2+Retrofit实现更清晰的架构](http://www.jianshu.com/p/121ec1e9b751)
 	    
