@@ -143,6 +143,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
      [Android-CleanArchitecture - github](https://github.com/android10/Android-CleanArchitecture)
 
      [The Clean Architecture](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+     
+     [一种更清晰的Android架构](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0331/2671.html)
 
  - MVP  
 
@@ -260,12 +262,16 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
       [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
       
       [RxJava和EventBus的区别？](https://www.zhihu.com/question/32179258/answer/54989242)
+      
+      [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
 	[Facebook开源的图片加载组件Fresco](https://github.com/facebook/fresco) 
 
 	[内存泄漏检测的开源库LeakCanary](https://github.com/square/leakcanary)
 
 	[更多开源库项目收集](https://github.com/snowdream/awesome-android)
+	
+	[Android 源码解析开发版](https://github.com/aosp-exchange-group/android-open-project-analysis)
 
 * Android性能提升
   
