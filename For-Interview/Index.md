@@ -134,6 +134,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 
 + APP架构与设计模式
 
+ [Android路由框架设计与实现](http://sixwolf.net/blog/2016/03/23/Android%E8%B7%AF%E7%94%B1%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1/)
+
  [架构设计的历史·MVC·MVP·MVVM](http://www.jianshu.com/p/be63c37b02cb)
  
  [Android架构合集](https://github.com/Juude/Awesome-Android-Architecture)
@@ -158,6 +160,10 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 	   [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
 
        [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
+       
+       [What are MVP and MVC and what is the difference?](http://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference)
+       
+       [MVC or MVP Pattern – Whats the difference? ](http://d3.infragistics.com/mvc-or-mvp-pattern-whats-the-difference/)
        
        [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
    
