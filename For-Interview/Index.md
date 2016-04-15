@@ -192,7 +192,9 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 	[来自官方的Android数据绑定（Data Binding）框架①](http://www.devtf.cn/?p=1089)
 
 	[来自官方的Android数据绑定（Data Binding）框架②](http://blog.chengyunfeng.com/?p=735)
-
+   + 更多
+        
+        [Pan：一个让人眼前一亮的 MV* 开发框架](https://github.com/campusappcn/Pan)
 
 *架构这一块，在着手编码闹钟应用程序之前了解掌握*
 
