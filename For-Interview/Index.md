@@ -151,7 +151,10 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
      [一种更清晰的Android架构](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0331/2671.html)
 
  - MVP  
-
+        
+         **[Android MVP 实例](http://wuxiaolong.me/2015/09/23/AndroidMVPSample/)**
+       
+         **[Android MVP模式 简单易懂的介绍方式](http://kaedea.com/2015/10/11/android-mvp-pattern/)** 
 
          [【译】Android开发中的MVP架构](http://www.jianshu.com/p/7567ed0d1853)
          
@@ -162,6 +165,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 	   [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
 
        [Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
+       
+        [Modeling my presentation layer ](http://panavtec.me/modeling-presentation-layer)
        
        [What are MVP and MVC and what is the difference?](http://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference)
        
@@ -178,6 +183,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
   + MVVM / DataBinding
 
 	[Android Data Binding Library 数据绑定库详解](http://www.jikexueyuan.com/course/1521.html)
+	
+	[Android Databinding: Goodbye Presenter, hello ViewModel!](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
 		
 	[Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f#rd)
 		
