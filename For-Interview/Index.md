@@ -133,6 +133,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
 
 
 + APP架构与设计模式
+ 
+ [Square 开源库Flow和Mortar的介绍](https://github.com/hehonghui/android-tech-frontier/tree/946eb5a70e4114130990edb84af277b272d47495/androidweekly/Square%20%E5%BC%80%E6%BA%90%E5%BA%93Flow%E5%92%8CMortar%E7%9A%84%E4%BB%8B%E7%BB%8D)
 
  [Android路由框架设计与实现](http://sixwolf.net/blog/2016/03/23/Android%E8%B7%AF%E7%94%B1%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1/)
 
@@ -195,6 +197,8 @@ Java5.0->Java6.0->Java7.0->Java8.0  新特性
    + 更多
         
         [Pan：一个让人眼前一亮的 MV* 开发框架](https://github.com/campusappcn/Pan)
+
+        [使用RxJava.Observable取代AsyncTask和AsyncTaskLoader](https://github.com/hehonghui/android-tech-frontier/tree/946eb5a70e4114130990edb84af277b272d47495/androidweekly/%E4%BD%BF%E7%94%A8RxJava.Observable%E5%8F%96%E4%BB%A3AsyncTask%E5%92%8CAsyncTaskLoader)
 
 *架构这一块，在着手编码闹钟应用程序之前了解掌握*
 
